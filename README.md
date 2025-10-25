@@ -52,11 +52,6 @@ mvn clean javafx:run
 
 The application will start and open the task manager window 🎯
 
-📸 Screenshots (Optional)
-
-Add a screenshot of your app window here
-
-![Smart Task Scheduler UI](screenshot.png)
 
 👨‍💻 Author
 
